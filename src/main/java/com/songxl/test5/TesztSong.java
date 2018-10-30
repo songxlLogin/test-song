@@ -8,5 +8,6 @@ package com.songxl.test5;
 public class TesztSong {
     public static void main(String[] args) {
         System.out.println("fds");
+          System.out.println("repository : fds");    
     }
 }
