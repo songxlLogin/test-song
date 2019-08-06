@@ -12,5 +12,7 @@ public class Three {
     @Test
     public void threeTest(){
         System.out.println("this is test three");
+
+        System.out.println("this is 补充文件。。。");
     }
 }
